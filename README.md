@@ -41,7 +41,8 @@ A página apresenta informações sobre classes do jogo, o mundo de Lordran e um
 
 ## 📐 Estrutura do Projeto
 
-/CP2-FrontEnd
+```
+CP2-FrontEnd/
 │── index.html
 │
 ├── css/
@@ -49,6 +50,7 @@ A página apresenta informações sobre classes do jogo, o mundo de Lordran e um
 │
 └── imagens/
     └── (arquivos de imagem)
+```
 
 ---
 
